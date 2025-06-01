@@ -1,12 +1,12 @@
 plasma-desktop
 sddm
 dolphin
---END OF MINIMAL INSTALL--
 ark
+breeze
+breeze-gtk 
+--END OF MINIMAL INSTALL--
 audiocd-kio
 bluedevil
-breeze
-breeze-gtk
 discover
 extra-cmake-modules
 filelight
