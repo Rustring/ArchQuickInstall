@@ -4,6 +4,7 @@ dolphin
 ark
 breeze
 breeze-gtk 
+konsole
 --END OF MINIMAL INSTALL--
 audiocd-kio
 bluedevil
@@ -19,7 +20,6 @@ kdeplasma-addons
 kgamma5
 kgpg
 kinfocenter
-konsole
 kscreen
 kvantum-qt5
 kwalletmanager
