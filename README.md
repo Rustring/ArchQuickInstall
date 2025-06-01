@@ -1,5 +1,5 @@
-# Resurrecting Project in LinUtil
+# Description
 
-The All-In-One quick Arch setup is part of LINUTIL Now!
+Quick Arch Linux Install with a working desktop xD.
 
-### <https://github.com/ChrisTitusTech/linutil>
+Based on ArchTitus
